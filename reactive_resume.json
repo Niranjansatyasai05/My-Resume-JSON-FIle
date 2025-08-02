@@ -1,0 +1,418 @@
+{
+  "basics": {
+    "url": {
+      "href": "",
+      "label": ""
+    },
+    "name": "PILLALAMARRY NIRANJAN SATYA SAI",
+    "email": "niranjansatyasai05@gmail.com",
+    "phone": "9390132084",
+    "picture": {
+      "url": "",
+      "size": 64,
+      "effects": {
+        "border": false,
+        "hidden": false,
+        "grayscale": false
+      },
+      "aspectRatio": 1,
+      "borderRadius": 0
+    },
+    "headline": "",
+    "location": "",
+    "customFields": []
+  },
+  "metadata": {
+    "css": {
+      "value": "* {\n\toutline: 1px solid #000;\n\toutline-offset: 4px;\n}",
+      "visible": false
+    },
+    "page": {
+      "format": "a4",
+      "margin": 24,
+      "options": {
+        "breakLine": true,
+        "pageNumbers": true
+      }
+    },
+    "notes": "",
+    "theme": {
+      "text": "#000000",
+      "primary": "#0891b2",
+      "background": "#ffffff"
+    },
+    "layout": [
+      [
+        [
+          "summary",
+          "profiles",
+          "projects",
+          "volunteer",
+          "references",
+          "interests",
+          "experience",
+          "custom.hv6zvdwung7f9jdvo8yp4cy2",
+          "custom.h5hk4e0xwj4ynvke1gg8ogb4"
+        ],
+        [
+          "skills",
+          "education",
+          "publications",
+          "certifications",
+          "awards",
+          "languages"
+        ]
+      ]
+    ],
+    "template": "azurill",
+    "typography": {
+      "font": {
+        "size": 14.25,
+        "family": "Times New Roman",
+        "subset": "latin",
+        "variants": [
+          "regular"
+        ]
+      },
+      "hideIcons": false,
+      "lineHeight": 1.5,
+      "underlineLinks": false
+    }
+  },
+  "sections": {
+    "awards": {
+      "id": "awards",
+      "name": "Awards",
+      "items": [],
+      "columns": 1,
+      "visible": true,
+      "separateLinks": true
+    },
+    "custom": {
+      "hv6zvdwung7f9jdvo8yp4cy2": {
+        "name": "CO-CIRRICULAR ACTIVITIES",
+        "columns": 1,
+        "separateLinks": true,
+        "visible": true,
+        "id": "hv6zvdwung7f9jdvo8yp4cy2",
+        "items": [
+          {
+            "id": "ukw1yljzsq4dtrnh2h6bvb8m",
+            "visible": true,
+            "name": "",
+            "description": "",
+            "date": "",
+            "location": "",
+            "summary": "<ul><li><p>Attended workshop on PowerBi conducted by Forge alumnus</p></li><li><p>Attended technical fest conducted in our college</p></li></ul>",
+            "keywords": [],
+            "url": {
+              "label": "",
+              "href": ""
+            }
+          }
+        ]
+      },
+      "h5hk4e0xwj4ynvke1gg8ogb4": {
+        "name": "HACKER RANK BADGES",
+        "columns": 1,
+        "separateLinks": true,
+        "visible": true,
+        "id": "h5hk4e0xwj4ynvke1gg8ogb4",
+        "items": [
+          {
+            "id": "iaev0fv9756u18aafzn8iwbb",
+            "visible": true,
+            "name": "",
+            "description": "",
+            "date": "",
+            "location": "",
+            "summary": "<ul><li><p>C LANGUAGE ⭐️ ⭐️ ⭐️ ⭐️ ⭐️</p></li><li><p>JAVA  ⭐️ ⭐️ ⭐️ ⭐️</p></li><li><p>C++  ⭐️ ⭐️ ⭐️</p></li><li><p>PYTHON  ⭐️ ⭐️</p></li></ul>",
+            "keywords": [],
+            "url": {
+              "label": "",
+              "href": ""
+            }
+          }
+        ]
+      }
+    },
+    "skills": {
+      "id": "skills",
+      "name": "TECHNICAL PROFICENCY",
+      "items": [
+        {
+          "id": "wm66uuk8rzet59z93tirfk6h",
+          "visible": true,
+          "name": "Programming Languages",
+          "description": "",
+          "level": 0,
+          "keywords": [
+            "C",
+            "C++",
+            "JAVA",
+            "PYTHON"
+          ]
+        },
+        {
+          "id": "ng58vggwqdklhb5g0n7ybabl",
+          "visible": true,
+          "name": "Web Technologies",
+          "description": "",
+          "level": 0,
+          "keywords": [
+            "HTML",
+            "CSS",
+            "JAVASCRIPT"
+          ]
+        },
+        {
+          "id": "dwru3sun3wi7bz21q5gbeper",
+          "visible": true,
+          "name": "Databases",
+          "description": "",
+          "level": 0,
+          "keywords": [
+            "MYSQL",
+            "DBMS",
+            "RDBMS"
+          ]
+        },
+        {
+          "id": "qn7vd9bitsqqbwj5cq9k7wvk",
+          "visible": true,
+          "name": "TOOLS",
+          "description": "",
+          "level": 0,
+          "keywords": [
+            "AUTOCAD",
+            "PHOTOSHOP",
+            "STAR UML"
+          ]
+        }
+      ],
+      "columns": 1,
+      "visible": true,
+      "separateLinks": false
+    },
+    "summary": {
+      "id": "summary",
+      "name": "OBJECTIVE",
+      "columns": 1,
+      "content": "<p style=\"text-align: justify\">As a student of Computer Science  specializing in AI/ML, I am seeking an entry-level machine learning position to apply my skills to impactful, real-world applications. </p>",
+      "visible": true,
+      "separateLinks": true
+    },
+    "profiles": {
+      "id": "profiles",
+      "name": "Profiles",
+      "items": [],
+      "columns": 1,
+      "visible": false,
+      "separateLinks": true
+    },
+    "projects": {
+      "id": "projects",
+      "name": "PROJECT EXPERIENCE",
+      "items": [
+        {
+          "id": "w15n5bpv52j3a5xcti1fste8",
+          "visible": true,
+          "name": "Personal Portfolio Website using (HTML, CSS, JavaScript)",
+          "description": "Developed a fully responsive personal portfolio website to showcase my skills, projects, and contact information. The site includes multiple sections such as About Me, Projects, Resume, and Contact Form, all styled with CSS for a clean user interface. JavaScript was used for basic interactivity, such as a mobile-friendly navigation bar and smooth scrolling.",
+          "date": "",
+          "summary": "<p style=\"text-align: justify\"><strong>Key Features</strong>:</p><ul><li><p style=\"text-align: justify\">Responsive design compatible with desktops, tablets, and mobile devices</p></li><li><p style=\"text-align: justify\">Integrated contact form with basic validation</p></li><li><p style=\"text-align: justify\">Dynamic project section showcasing live links and GitHub repositories</p></li><li><p style=\"text-align: justify\">Clean, professional layout using semantic HTML and CSS Flexbox/Grid</p></li></ul>",
+          "keywords": [],
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "g4m9l87dvy5kpnjut87j5vd9",
+          "visible": true,
+          "name": "Movie Recommendation System using (Machine Learning)",
+          "description": "Developed a content-based movie recommendation system using Python and machine learning techniques. The system analyzes user preferences and recommends similar movies based on metadata such as genre, cast, and keywords.",
+          "date": "",
+          "summary": "<p><strong>Key Features:</strong></p><ul><li><p>Utilized <strong>TF-IDF vectorization</strong> and <strong>cosine similarity</strong> for content analysis.</p></li><li><p>Processed and cleaned datasets from <strong>TMDb</strong> (The Movie Database).</p></li><li><p>Implemented using <strong>Pandas, Scikit-learn, and Numpy</strong>.</p></li><li><p>Built a simple <strong>Flask web interface</strong> to demonstrate the recommendations.</p></li></ul>",
+          "keywords": [],
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        }
+      ],
+      "columns": 1,
+      "visible": true,
+      "separateLinks": true
+    },
+    "education": {
+      "id": "education",
+      "name": "EDUCATION",
+      "items": [
+        {
+          "id": "e8lrrw2v69u2r5h0etyozva8",
+          "visible": true,
+          "institution": "St.Peter's Engineering College",
+          "studyType": "",
+          "area": "B.Tech in Computer Science And Engineering(AI&ML),JNTU(H) ",
+          "score": "8.23 CGPA Till 3-2 ",
+          "date": "",
+          "summary": "",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "n0ab619i9af9pjx9byiyul0e",
+          "visible": true,
+          "institution": "Jaggayyapeta Junior College",
+          "studyType": "",
+          "area": "Intermediate",
+          "score": "CGPA:8.10",
+          "date": "",
+          "summary": "",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "r361iyun1clkphk8b32kg4sl",
+          "visible": true,
+          "institution": "Chegu Vidyalayam",
+          "studyType": "",
+          "area": "SSC",
+          "score": "CGPA:9.0",
+          "date": "",
+          "summary": "",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        }
+      ],
+      "columns": 1,
+      "visible": true,
+      "separateLinks": true
+    },
+    "interests": {
+      "id": "interests",
+      "name": "NNN",
+      "items": [],
+      "columns": 1,
+      "visible": true,
+      "separateLinks": true
+    },
+    "languages": {
+      "id": "languages",
+      "name": "Languages",
+      "items": [],
+      "columns": 1,
+      "visible": true,
+      "separateLinks": true
+    },
+    "volunteer": {
+      "id": "volunteer",
+      "name": "Volunteering",
+      "items": [],
+      "columns": 1,
+      "visible": false,
+      "separateLinks": true
+    },
+    "experience": {
+      "id": "experience",
+      "name": "set",
+      "items": [],
+      "columns": 1,
+      "visible": true,
+      "separateLinks": true
+    },
+    "references": {
+      "id": "references",
+      "name": "References",
+      "items": [],
+      "columns": 1,
+      "visible": false,
+      "separateLinks": true
+    },
+    "publications": {
+      "id": "publications",
+      "name": "PRIMARY SKILL SET",
+      "items": [
+        {
+          "id": "zhdzujp2mvwyp4fzr67bpd9u",
+          "visible": true,
+          "name": "Mastered in Java programming language concepts used:",
+          "publisher": "",
+          "date": "",
+          "summary": "<ul><li><p style=\"text-align: justify\">OOP's Concepts</p></li><li><p style=\"text-align: justify\">Variables and Data Types</p></li><li><p style=\"text-align: justify\">Conditional Statements</p></li><li><p style=\"text-align: justify\">Functions</p></li><li><p style=\"text-align: justify\">Exception Handlings</p></li><li><p style=\"text-align: justify\">Frameworks or Libraries</p></li></ul>",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        }
+      ],
+      "columns": 1,
+      "visible": true,
+      "separateLinks": true
+    },
+    "certifications": {
+      "id": "certifications",
+      "name": "CERTIFICATIONS",
+      "items": [
+        {
+          "id": "tcjt17512sif6davr7v32u0l",
+          "visible": true,
+          "name": "Google Cloud Computing Foundation",
+          "issuer": "google cloud",
+          "date": "",
+          "summary": "",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "uc0x4f8nbua4u7z3i6ko3xh2",
+          "visible": true,
+          "name": "Data Structures and Algorithms",
+          "issuer": "Infosys Springboard",
+          "date": "",
+          "summary": "",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "citdiq93a5n5few9aas36q99",
+          "visible": true,
+          "name": "Introduction to Java",
+          "issuer": "Data Flair",
+          "date": "",
+          "summary": "",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "avsvz4g5fwusp77j5fefdme6",
+          "visible": true,
+          "name": "Problem sloving in c ",
+          "issuer": "HackerRank",
+          "date": "",
+          "summary": "",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        }
+      ],
+      "columns": 1,
+      "visible": true,
+      "separateLinks": true
+    }
+  }
+}
